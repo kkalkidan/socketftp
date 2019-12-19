@@ -1,0 +1,7 @@
+setup.py
+wrapper.c
+pysocketftp.egg-info/PKG-INFO
+pysocketftp.egg-info/SOURCES.txt
+pysocketftp.egg-info/dependency_links.txt
+pysocketftp.egg-info/not-zip-safe
+pysocketftp.egg-info/top_level.txt
